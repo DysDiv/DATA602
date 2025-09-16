@@ -1,0 +1,3 @@
+Why are you interested in taking Data602?
+
+I believe that it would provide me with a strong foundation of understanding in how Data Science can empower various fields in the tech space and develop beginner skills in data analysis. I'm also getting good practice with coding environments like GitHub and VSCode.
